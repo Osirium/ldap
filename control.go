@@ -7,7 +7,7 @@ package ldap
 import (
 	"strings"
 	"fmt"
-	"github.com/edwardzsmith/asn1-ber"
+	"github.com/osirium/asn1-ber"
 )
 
 const (

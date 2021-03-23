@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edwardzsmith/asn1-ber"
+	"github.com/osirium/asn1-ber"
 )
 
 const (

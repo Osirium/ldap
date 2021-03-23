@@ -10,7 +10,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	ber "github.com/edwardzsmith/asn1-ber"
+	ber "github.com/osirium/asn1-ber"
 )
 
 type Binder interface {

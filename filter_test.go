@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/edwardzsmith/asn1-ber"
+	"github.com/osirium/asn1-ber"
 )
 
 type compileTest struct {
